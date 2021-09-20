@@ -11,6 +11,9 @@ Jupyter notebooks are used here as a fully-documented proof-of-concept.
 
 This project was developed under the following environment: 
  * Python 3.8.10
+ * numpy-1.17.4
  * pandas-1.3.3
+ * scipy-1.6.3
  * nltk-3.6.2
+ * scikit-learn-0.24.2
 
