@@ -5,9 +5,9 @@ The goal of this case study is to group the company names that are coming from t
 The resulting algorithm should be able to map the company names to their possible common entities. 
 
 This project contains :
- * A spreadsheet with nearly 5000 raw company names
+<!--- * A spreadsheet with nearly 5000 raw company names -->
  * A jupyter notebook which document my approach for this case study.
- * A python script containing the resulting algorithm  
+<!--- * A python script containing the resulting algorithm  -->
 
 Author: Simon Berlendis
 
